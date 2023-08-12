@@ -1,5 +1,5 @@
 import {useEffect, useState} from "react";
-import { Title} from "../components/Title"
+import { Title } from "../components/Title"
 
 
 
